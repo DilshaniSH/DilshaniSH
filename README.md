@@ -1,5 +1,8 @@
 ### Hello folks 👋
 ### I'm Dilshani Shashinika
+- :mortar_board:  &nbsp; I have completed BSc(Hons) in Information Technology from University of Moratuwa
+- :office:  &nbsp; I am working as a Software Engineer in [WSO2](https://wso2.com/)
+- :seedling: &nbsp; I am passionate about deepening my knowledge of IAM & APIM domains
 
 <hr>
 
