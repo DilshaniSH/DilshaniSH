@@ -3,9 +3,14 @@
 
 <hr>
 
-### Certifications  :pencil:
+#### Certifications 🏅
 - [WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/AYAALQ)
 - [WSO2 Certified Identity Server Developer - V5](https://certification.wso2.com/web/certificate/AYAALQ)
+
+<hr>
+
+#### Badges
+<img src="https://user-images.githubusercontent.com/43839993/142715022-7b00d7bb-1ea9-447d-87e6-50869087bae5.png" alt="alt text" width="125" height="125">
 
 <hr>
 
