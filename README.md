@@ -6,6 +6,12 @@
 
 <hr>
 
+#### :mailbox: &nbsp;  Contact Me
+- Email : [164046H@uom.lk](mailto:164046H@uom.lk)
+- LinkedIn : [linkedin.com/in/dilshani-96](https://lk.linkedin.com/in/dilshani-96)
+
+<hr>
+
 #### :page_facing_up: &nbsp;  Publications
 - Ontology based fake news detection for Sinhala language - published in [2021 6th International Conference on Information Technology Research](https://ieeexplore.ieee.org/document/9657257)
 
