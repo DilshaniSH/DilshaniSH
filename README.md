@@ -3,7 +3,11 @@
 - :mortar_board:  &nbsp; I have completed BSc(Hons) in Information Technology from University of Moratuwa
 - :office:  &nbsp; I am working as a Software Engineer in [WSO2](https://wso2.com/)
 - :seedling: &nbsp; I am passionate about deepening my knowledge of IAM & APIM domains
-- :sunflower: &nbsp; I am currently working on publishing my 'Ontology based Fake News Detection' research in IEEE ICITR 2021 
+
+<hr>
+
+#### :page_facing_up: &nbsp;  Publications
+- Ontology based fake news detection for Sinhala language - published in [2021 6th International Conference on Information Technology Research](https://ieeexplore.ieee.org/document/9657257)
 
 <hr>
 
